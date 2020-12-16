@@ -1,9 +1,7 @@
 <h1 align="center" style="position: relative;">
     <img width="200" style="border-radius: 50%;" src="./Transparent/vertix-transparent-large.png"/><br>
-    VERTIX STUDIOS
+    VERTIX BRANDING
 </h1>
-
-<h3 align="center">VERTIX | Branding</h3>
 
 <p align="center">
     <a href="https://github.com/VertixStudiosOfficial/Branding/blob/main/README.md">Read Me</a> •
