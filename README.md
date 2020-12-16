@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://github.com/VertixStudiosOfficial/Branding/blob/main/README.md">Read Me</a> •
     <a href="https://github.com/VertixStudiosOfficial/Branding/blob/main/LICENSE"> License </a>•
-    <a href="https://vertixstudios.com"> Website </a> •
+    <a href="https://vertixstudios.com"> Website </a>
 </p>
 
 ## License
