@@ -26,4 +26,4 @@ Distributed under the GNU-GPT License. See `LICENSE` for more information.
 ## Acknowledgements
 
 * [Blake Alford](https://github.com/blakealford)
-* [Hector Rosales(https://github.com/zeekzcantcode)
+* [Hector Rosales](https://github.com/zeekzcantcode)
