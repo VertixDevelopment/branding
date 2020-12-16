@@ -17,7 +17,7 @@ Distributed under the GNU-GPT License. See `LICENSE` for more information.
 ## Contact
 
 - Vertix Studios - [@VertixStudios](https://twitter.com/vertixstudios)  
-- Email - (contact@vertixstudios.com)[https://vertixstudios.com/about]
+- Email - [contact@vertixstudios.com](https://vertixstudios.com/about)
 - Project Link: [https://github.com/Jantick/jantick-discord-bot](https://github.com/Jantick/jantick-discord-bot)
 
 
