@@ -24,7 +24,7 @@ These images can be used for any projects that are associated with the Vertix Te
 
 To use any of these images for commerical use you must contact one of our marketing manages via email by emailing us: 
 
-- marketing@Vertix.com
+- marketing@vertixstudios.com
 
 
 ## Branding Rules & Regulations 
