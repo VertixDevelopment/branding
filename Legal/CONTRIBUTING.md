@@ -1,3 +1,14 @@
+<h1 align="center" style="position: relative;">
+    <img width="200" style="border-radius: 50%;" src="./Transparent/vertix-transparent-large.png"/><br>
+    VERTIX LEGAL
+</h1>
+
+<p align="center">
+    <a href="https://github.com/VertixStudiosOfficial/Branding/blob/main/README.md">Read Me</a>•
+    <a href="https://github.com/VertixStudiosOfficial/Branding/blob/main/Legal/LICENSE">License </a>•
+     <a href="https://github.com/VertixStudiosOfficial/Branding/blob/main/Legal/CODE_OF_CONDUCT.md">Code of Conduct</a>•
+    <a href="https://vertixstudios.com">Website</a>
+</p>
 
 # Contributing To Vertix Discord Bots
 When contributing to this repository, please first discuss the change you wish to make via issue, or on the Vertix [Discord server](https://vertixstudios.com/discord) or any other method with the owner(s)/dev-ops team of this repository before making a change.
