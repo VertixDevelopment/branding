@@ -1,5 +1,5 @@
 <h1 align="center" style="position: relative;">
-    <img width="200" style="border-radius: 50%;" src="./Transparent/vertix-transparent-large.png"/><br>
+    <img width="200" style="border-radius: 50%;" src="https://media.discordapp.net/attachments/713720334347534387/847720449193541632/vertix-logo-transparent.png?width=670&height=670"/><br>
     VERTIX BRANDING
 </h1>
 
