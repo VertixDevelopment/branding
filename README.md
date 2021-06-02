@@ -1,6 +1,6 @@
 <h1 align="center" style="position: relative;">
     <img width="200" style="border-radius: 50%;" src="https://media.discordapp.net/attachments/713720334347534387/847720449193541632/vertix-logo-transparent.png?width=670&height=670"/><br>
-    VERTIX BRANDING
+    Vertix Branding
 </h1>
 
 <p align="center">
@@ -14,8 +14,6 @@
 
  *1.Vertix Branding <br />
  2. Branding Rules & Regulations <br />
- 3. Finding Your Way Around <br />
- 4. Extra Information* <br />
 
 ## Vertix Branding
 Welcome to the official GitHub repo for for Vertix branding/media pack. This repository contains all logo marks, advertisements and any branding images that are and or is associated with the Vertix Brand. <br />
